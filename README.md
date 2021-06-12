@@ -10,7 +10,7 @@ This repo contains a collection of prototype Matlab scripts that output planetar
 <br>
 
 <p align="center">
-  <img width="1000" height="1000" src="https://raw.githubusercontent.com/dirediredock/SphericalEarth/main/exampleFigures/G1.gif">
+  <img width="900" height="900" src="https://raw.githubusercontent.com/dirediredock/SphericalEarth/main/exampleFigures/G1.gif">
 </p>
 
 <br>
