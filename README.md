@@ -10,6 +10,9 @@ This repo contains a collection of prototype Matlab scripts that output planetar
 <br>
 
 <p align="center">
+  <img width="800" height="800" src="https://raw.githubusercontent.com/dirediredock/SphericalEarth/main/exampleFigures/SphericalSpin2.gif">
+</p>
+<p align="center">
   <img width="800" height="800" src="https://raw.githubusercontent.com/dirediredock/SphericalEarth/main/exampleFigures/G1.gif">
 </p>
 
