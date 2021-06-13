@@ -14,16 +14,16 @@ This repo contains a collection of prototype Matlab scripts that output planetar
   <img src="https://raw.githubusercontent.com/dirediredock/SphericalEarth/main/exampleFigures/G1.gif"/>
 </p>
 
-![alt text](https://raw.githubusercontent.com/dirediredock/SphericalEarth/main/exampleFigures/D1.png)
 ![alt text](https://raw.githubusercontent.com/dirediredock/SphericalEarth/main/exampleFigures/A5.png)
+![alt text](https://raw.githubusercontent.com/dirediredock/SphericalEarth/main/exampleFigures/A8.png)
 ![alt text](https://raw.githubusercontent.com/dirediredock/SphericalEarth/main/exampleFigures/A6.png)
 ![alt text](https://raw.githubusercontent.com/dirediredock/SphericalEarth/main/exampleFigures/A7.png)
-![alt text](https://raw.githubusercontent.com/dirediredock/SphericalEarth/main/exampleFigures/A8.png)
 ![alt text](https://raw.githubusercontent.com/dirediredock/SphericalEarth/main/exampleFigures/A9.png)
 ![alt text](https://raw.githubusercontent.com/dirediredock/SphericalEarth/main/exampleFigures/B1.png)
 ![alt text](https://raw.githubusercontent.com/dirediredock/SphericalEarth/main/exampleFigures/B2.png)
 ![alt text](https://raw.githubusercontent.com/dirediredock/SphericalEarth/main/exampleFigures/B3.png)
 ![alt text](https://raw.githubusercontent.com/dirediredock/SphericalEarth/main/exampleFigures/B5.png)
+![alt text](https://raw.githubusercontent.com/dirediredock/SphericalEarth/main/exampleFigures/D1.png)
 ![alt text](https://raw.githubusercontent.com/dirediredock/SphericalEarth/main/exampleFigures/C1.png)
 ![alt text](https://raw.githubusercontent.com/dirediredock/SphericalEarth/main/exampleFigures/C2.png)
 ![alt text](https://raw.githubusercontent.com/dirediredock/SphericalEarth/main/exampleFigures/C3.png)
