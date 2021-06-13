@@ -1,22 +1,18 @@
 # SphericalEarth
 
-This repo contains a collection of prototype Matlab scripts that output planetary data as a to-scale 3D sphere (based on Earth radius of 6371 kilometers). Works by re-mapping vector XYZ point clouds into spherical coordiantes according to longitude (X) and latitude (Y), with the magnitude of the value (Z) shown in color. 
+This repo contains a collection of prototype Matlab scripts that output planetary data as a to-scale 3D sphere (based on Earth radius of 6371 kilometers). Works by re-mapping vector XYZ point clouds into spherical coordiantes according to longitude (X), latitude (Y), and radius (Z), with data magnitude (N) shown in color.
 
 <br>
 
 ![alt text](https://raw.githubusercontent.com/dirediredock/SphericalEarth/main/exampleFigures/A2.png)
 ![alt text](https://raw.githubusercontent.com/dirediredock/SphericalEarth/main/exampleFigures/A1.png)
 
-<br>
-
 <p align="center">
-  <img width="800" height="800" src="https://raw.githubusercontent.com/dirediredock/SphericalEarth/main/exampleFigures/SphericalSpin2.gif">
+  <img src="https://raw.githubusercontent.com/dirediredock/SphericalEarth/main/exampleFigures/SphericalSpin2.gif"/>
 </p>
 <p align="center">
-  <img width="800" height="800" src="https://raw.githubusercontent.com/dirediredock/SphericalEarth/main/exampleFigures/G1.gif">
+  <img src="https://raw.githubusercontent.com/dirediredock/SphericalEarth/main/exampleFigures/G1.gif"/>
 </p>
-
-<br>
 
 ![alt text](https://raw.githubusercontent.com/dirediredock/SphericalEarth/main/exampleFigures/D1.png)
 ![alt text](https://raw.githubusercontent.com/dirediredock/SphericalEarth/main/exampleFigures/A5.png)
