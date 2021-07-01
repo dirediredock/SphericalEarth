@@ -4,15 +4,11 @@ This repo contains a collection of prototype Matlab scripts that output planetar
 
 <br>
 
-![alt text](https://raw.githubusercontent.com/dirediredock/SphericalEarth/main/exampleFigures/A2.png)
-![alt text](https://raw.githubusercontent.com/dirediredock/SphericalEarth/main/exampleFigures/A1.png)
+<img src="https://raw.githubusercontent.com/dirediredock/SphericalEarth/main/exampleFigures/A2.png" width="100%">
+<img src="https://raw.githubusercontent.com/dirediredock/SphericalEarth/main/exampleFigures/A1.png" width="100%">
+<img src="https://raw.githubusercontent.com/dirediredock/SphericalEarth/main/exampleFigures/SphericalSpin2.gif" width="100%">
+<img src="https://raw.githubusercontent.com/dirediredock/SphericalEarth/main/exampleFigures/G1.gif" width="100%">
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/dirediredock/SphericalEarth/main/exampleFigures/SphericalSpin2.gif"/>
-</p>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/dirediredock/SphericalEarth/main/exampleFigures/G1.gif"/>
-</p>
 
 ![alt text](https://raw.githubusercontent.com/dirediredock/SphericalEarth/main/exampleFigures/A5.png)
 ![alt text](https://raw.githubusercontent.com/dirediredock/SphericalEarth/main/exampleFigures/A8.png)
